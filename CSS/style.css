@@ -1,0 +1,27 @@
+body {
+ background-color: #D9EEEC;
+ color: #64b2cd;
+ }
+ /*hr {
+
+  border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width: 5px;
+   width: 70%;  /* RWD changes as the browser modifies the page}*/
+
+h1 {
+  color: #64b2cd;
+}
+h3 {
+  color: #3c70a4;
+}
+.colored {
+  color: #64b2cd;
+}
+ol.colored > li {
+  color:#3c70a4;
+}
+.circular {
+  border-radius: 100%;
+}
